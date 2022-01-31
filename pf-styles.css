@@ -13,4 +13,7 @@ h5{
     color: rgba(77, 25, 77, 0.356);
 }
 
-
+body{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
