@@ -3,11 +3,14 @@ h1{
     color: purple;
 }
 
+<<<<<<< HEAD
 h2{
     font-size: 1.5em;
     color: rgba(128, 0, 128, 0.356);
 }
 
+=======
+>>>>>>> c33ee02a3ed101903e4a17a85edc2c8e0662cdbf
 h5{
     font-size: 1.5em;
     color: rgba(128, 0, 128, 0.356);
